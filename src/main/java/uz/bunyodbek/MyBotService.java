@@ -186,6 +186,10 @@ public class MyBotService {
 
     }
 
+public  SendPhoto sendPhoto(){
+        return sendPhoto(null );
+}
+
 
 
 
